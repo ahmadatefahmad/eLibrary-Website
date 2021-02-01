@@ -1,0 +1,31 @@
+﻿
+#filler {
+	min-height: 50vh;
+	min-height: calc(100vh - 140px);
+}
+.footerlinks {
+	color: #ffffff;
+	text-decoration: none !important;
+}
+
+	.footerlinks:hover {
+		color: #ffd800;
+	}
+
+
+#footer1 {
+	background: #FDA07B;
+	font-weight: 350;
+}
+
+#footer2 {
+	background: #FAC569;
+	font-weight: 200;
+}
+
+.customBtn {
+	background: #FAC569;
+}
+	.customBtn:hover {
+		background: #FDA07B;
+	}
